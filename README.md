@@ -3,4 +3,4 @@ Repositório criado para o desafio de projeto sobre Git/GitHub
 
 ## Links Úteis
 
-[Sintaxa Básica Markdown](https://www.markdownguide.org/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/)
