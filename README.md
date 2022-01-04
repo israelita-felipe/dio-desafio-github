@@ -5,6 +5,8 @@ Repositório criado para o desafio de projeto sobre Git/GitHub
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
+[Configuração JDK e IDE's](https://github.com/cami-la/curso-dio-dominando-ides-java)
+
 ## Comandos úteis
 
 #### Gerar chave ssh
