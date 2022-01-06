@@ -7,6 +7,8 @@ Repositório criado para o desafio de projeto sobre Git/GitHub
 
 [Configuração JDK e IDE's](https://github.com/cami-la/curso-dio-dominando-ides-java)
 
+[Status code para API](https://httpstatuses.com/)
+
 ## Comandos úteis
 
 #### Gerar chave ssh
